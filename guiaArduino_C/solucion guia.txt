@@ -1,0 +1,4 @@
+P1: ¿Qué tamaño tiene el tipo de dato double? Compare el tipo double con el tipo float, ¿Qué puede concluir?
+
+R/ En arduino Uno and other ATMEGA el tamaño del dato double es de 4 bytes
+y para Due el dato double tiene 8 bytes.
